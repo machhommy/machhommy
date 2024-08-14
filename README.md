@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @machhommy
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning css & JS
-- 💞️ I’m looking to collaborate on thinking responsively
+- 👀 I’m interested in full stack
+- 🌱 I’m currently learning node js
 - 📫 How to reach me hasenammar407@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im just a beginner
+- ⚡ Fun fact: 
 
 
 <!---
